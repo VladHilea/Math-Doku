@@ -1,3 +1,5 @@
+#Math Doku - JavaFX Application 
+This is a game of mathdoku, similar to sudoku,but it is mathematical operations based(+,-,/,x)
 To compile and run the program from command line you have to have the Coursework.java and the cssstylesheet.css in the same folder and then enter the following commands
 where you have to change the module path according to the javafx folder
 
